@@ -35,5 +35,6 @@ How would you identify and highlight the Top Performing Sales Executives?
 
 ##Dashboard
 https://github.com/amaan123-shaikh/Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-10%20163608.png
-C:\Users\amaan\OneDrive\Desktop\excel dashboard\Screenshots
+<img width="1584" height="560" alt="Screenshot 2025-09-10 163608" src="https://github.com/user-attachments/assets/1df28ae8-4c6d-437c-8eb6-41d0b666c31e" />
+
 
