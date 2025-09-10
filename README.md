@@ -33,3 +33,7 @@ What does it mean if a Sales Executive has a Target Hit Percentage of 120%?
 
 How would you identify and highlight the Top Performing Sales Executives?
 
+##Dashboard
+https://github.com/amaan123-shaikh/Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-10%20163608.png
+C:\Users\amaan\OneDrive\Desktop\excel dashboard\Screenshots
+
