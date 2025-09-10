@@ -18,3 +18,18 @@ Compare region-wise performance to support data-driven business decisions
 ##Dataset Used
 <a https://github.com/amaan123-shaikh/Data-Analysis-Dashboard/blob/main/sales_executive_dummy_data%20(1).csv>Dataset /a>
 
+##KPI Questions
+What are the key KPIs used in this Sales Executive Dashboard?
+
+How is Total Sales calculated in this dataset?
+
+What is the significance of Target Hit Percentage in sales performance evaluation?
+
+How do you calculate the Away From Target Hit Percentage?
+
+How can you analyze region-wise performance using this dataset?
+
+What does it mean if a Sales Executive has a Target Hit Percentage of 120%?
+
+How would you identify and highlight the Top Performing Sales Executives?
+
