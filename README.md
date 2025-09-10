@@ -14,3 +14,7 @@ Provide visual insights through bar charts, pie charts, and line graphs
 Monitor KPIs such as Total Sales, Target Hit %, and Away From Target Hit %
 
 Compare region-wise performance to support data-driven business decisions
+
+##Dataset Used
+<a https://github.com/amaan123-shaikh/Data-Analysis-Dashboard/blob/main/sales_executive_dummy_data%20(1).csv>Dataset /a>
+
